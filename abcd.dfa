@@ -1,0 +1,45 @@
+4
+a
+b
+c
+d
+7
+start
+aa
+ab
+abc
+abca
+abcab
+abcabd
+start
+1
+abcabd
+28
+start a aa
+start b start
+start c start
+start d start
+aa b ab
+aa a aa
+aa c start
+aa d start
+ab c abc
+ab a aa
+ab b start
+ab d start
+abc a abca
+abc b start
+abc c start
+abc d start
+abca b abcab
+abca a aa
+abca c start
+abca d start
+abcab d abcabd
+abcab a aa
+abcab b start
+abcab c abc
+abcabd a abcabd
+abcabd b abcabd
+abcabd c abcabd
+abcabd d abcabd
